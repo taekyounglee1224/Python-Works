@@ -1,2 +1,0 @@
-### ProjectEuler 사이트 코딩 연습문제 풀이
-언어: Python 3.9~3.11
